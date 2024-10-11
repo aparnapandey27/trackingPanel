@@ -1,0 +1,7 @@
+
+/*# sourceMappingURL=custom.min.css.map */
+
+
+
+
+.page-wrap .app-menu.navbar-menu .navbar-nav  .nav-item.open::after, .page-wrap .app-menu.navbar-menu .navbar-nav  .nav-item.active::after { background-color: #eb525d; }
